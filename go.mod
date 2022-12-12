@@ -1,4 +1,4 @@
-module github.com/ilyubin/gotest2allure
+module github.com/prakashkumar-devarajan/gotest2allure
 
 go 1.12
 
